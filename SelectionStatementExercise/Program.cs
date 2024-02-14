@@ -28,7 +28,6 @@
                 Console.WriteLine($"You guessed it! The number was {favNumber}!");
             }                                                
 
-
         }
     }
 }
